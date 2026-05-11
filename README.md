@@ -1,41 +1,183 @@
-# Hi there, I'm Camilo 👋
+# Hi there, I'm 👨🏻‍💻 Camilo Rojas 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=cafran83&color=blue)
 
-## About Me
+### IT Support Specialist (L2) | Endpoint Support | Microsoft 365 | Frontend Foundations (React / Next.js)
 
-I'm a passionate frontend developer and graphic designer. I specialize in creating visually appealing and functional web experiences. I have strong expertise in JavaScript, React, NextJS, and TypeScript.
+📍 Rionegro, Antioquia — Colombia  
+🌎 Open to Remote Opportunities (LATAM / USA / Europe)
 
-- 🌱 I’m currently learning about advanced frontend technologies and improving my design skills.
-- 🛠️ I’m working on open-source projects and contributing to the developer community.
-- 💬 Ask me about frontend development, UI/UX design, and modern web technologies.
-- 📫 How to reach me: [cafran83@gmail.com](mailto:cafran83@gmail.com)
+---
 
-## Skills
+## 🚀 About Me
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, NextJS, Tailwind CSS
-- **Tools:** Git, Figma, Adobe XD, VS Code
-- **Design:** UI/UX Design, Graphic Design, Prototyping
+Experienced IT Support Specialist with 18+ years of hands-on experience delivering advanced technical support, endpoint management, troubleshooting, and infrastructure support across small business, enterprise, and distributed environments.
 
-## GitHub Stats
+Strong background supporting Windows and macOS environments, Microsoft 365 ecosystems, networking, hardware lifecycle management, and remote operations for more than 1,500 end users.
 
-![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafran83&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+Additionally, I bring frontend development foundations with React, Next.js, TypeScript, and UI-focused thinking, allowing me to better understand debugging, user experience, and modern web technologies.
 
-## Top Languages
+Currently strengthening my path toward becoming a:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cafran83&layout=compact&theme=radical&langs_count=5)
+### 🔐 Technical Security & Automation Engineer — AI Driven
 
-## Summary Card
+Focused on:
+- Endpoint Management
+- Cloud & Device Administration
+- Security Operations Foundations
+- Automation Workflows
+- AI-assisted Technical Operations
+- Modern IT Infrastructure
+- Frontend + Technical Hybrid Solutions
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cafran83&theme=radical)
+---
 
-## Connect with Me
+# 🛠️ Core Technical Skills
 
-- [LinkedIn](https://www.linkedin.com/in/camilo-rojas-5988b7115/)
-- [Twitter](https://twitter.com/cafran83)
+## 💻 IT Support & Infrastructure
+- Advanced L2 Technical Support
+- Endpoint Lifecycle Management
+- Windows & macOS Administration
+- Microsoft 365 Support
+- Hardware Diagnostics & Upgrades
+- LAN / Wi-Fi / VPN Troubleshooting
+- Remote Support Operations
+- Malware Removal & Basic Security
+- Technical Troubleshooting
+- Ticketing Systems (Jira / ClickUp)
+- Technical Documentation
 
-<!--
-**cafran83/cafran83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+---
+
+## ☁️ Cloud & Modern Management
+- Microsoft 365
+- Azure Fundamentals
+- Intune (Learning Path)
+- JAMF (Learning Path)
+- Cloud & Device Management
+- Remote Endpoint Support
+
+---
+
+## 🌐 Frontend & Technical Development
+- HTML / CSS / JavaScript
+- React
+- Next.js
+- TypeScript
+- REST APIs / JSON
+- Git & GitHub
+- Responsive UI Development
+- Frontend Debugging
+- Component-Based Architecture
+
+---
+
+# 📚 Currently Learning
+
+- Microsoft Endpoint Management (MD-102)
+- Azure & Intune Administration
+- JAMF Fundamentals
+- AI-assisted Automation Workflows
+- Cybersecurity Foundations
+- Technical Security Operations
+- Advanced Frontend Engineering
+- Full-Stack Development Path
+
+---
+
+# 🧠 Professional Mindset
+
+✨ Hybrid Technical Profile  
+✨ Strong Troubleshooting & Analytical Thinking  
+✨ User-Oriented Problem Solving  
+✨ Continuous Learning Mentality  
+✨ Design + Technical Perspective  
+✨ Infrastructure + Frontend Understanding
+
+---
+
+# 📌 Professional Experience
+
+## 🏢 ACOMP Solutions
+### IT Support Specialist & Founder
+📅 2004 — 2023
+
+- Delivered L2 technical support and advanced troubleshooting
+- Supported 1,500+ users across business and enterprise environments
+- Managed Windows & macOS systems
+- Network configuration and diagnostics
+- Remote and on-site support
+- Hardware lifecycle management
+- Long-term operational continuity support
+
+---
+
+## 💡 ShapYa Inc LLC (USA - Remote)
+### Frontend Developer & Visual Designer
+📅 2021 — 2025
+
+- Built responsive web applications using React & Next.js
+- Developed reusable UI components
+- Collaborated with backend and design teams
+- Converted Figma designs into functional interfaces
+- Frontend debugging and UI troubleshooting
+- Agile workflow collaboration
+
+---
+
+# 🔧 Technical Labs & Documentation
+
+Currently building technical labs and documentation focused on:
+
+- Windows Deployment
+- Microsoft 365 Troubleshooting
+- VPN Diagnostics
+- Endpoint Hardening
+- Intune Device Enrollment
+- Malware Cleanup Workflows
+- Remote Support Architectures
+- AI-assisted IT Operations
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+🌐 Portfolio (in progress)  
+📂 GitHub Projects & Labs  
+📧 cafran83@gmail.com
+
+---
+
+# ⚡ Tech Stack
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Summary Card
+
+![Camilo GitHub stats](https://github-readme-stats.vercel.app/api?username=cafran83&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafran83&layout=compact&theme=tokyonight)
+
+---
+
+# ⚡ Vision
+
+Building a long-term career combining:
+
+🔹 IT Infrastructure  
+🔹 Endpoint Management  
+🔹 Security Foundations  
+🔹 Automation  
+🔹 AI-assisted Operations  
+🔹 Frontend Technologies  
+
+into a modern Technical Security & Automation Engineering profile.

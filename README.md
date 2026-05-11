@@ -1,6 +1,6 @@
 # Hi there, I'm 👨🏻‍💻 Camilo Rojas 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=cafran83&color=blue)
+![](https://komarev.com/ghpvc/?username=cafran83&color=blueviolet)
 
 ### IT Support Specialist (L2) | Endpoint Support | Microsoft 365 | Frontend Foundations (React / Next.js)
 
@@ -142,7 +142,7 @@ Currently building technical labs and documentation focused on:
 
 # 📫 Connect With Me
 
-💼 LinkedIn  
+💼 [LinkedIn](https://linkedin.com/in/camilo-rojas-5988b7115)
 🌐 Portfolio (in progress)  
 📂 GitHub Projects & Labs  
 📧 cafran83@gmail.com
@@ -158,14 +158,6 @@ Currently building technical labs and documentation focused on:
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-# 📊 GitHub Summary Card
-
-![Camilo GitHub stats](https://github-readme-stats.vercel.app/api?username=cafran83&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafran83&layout=compact&theme=tokyonight)
 
 ---
 

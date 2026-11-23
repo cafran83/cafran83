@@ -1,8 +1,9 @@
+
 # Hi there, I'm 👨🏻‍💻 Camilo Rojas 👋
 
 ![](https://komarev.com/ghpvc/?username=cafran83&color=blueviolet)
 
-### IT Support Specialist (L2) | Endpoint Support | Microsoft 365 | Frontend Foundations (React / Next.js)
+### IT Support Specialist (L1/L2) | Endpoint Support | Microsoft 365 | Frontend Developer
 
 📍 Rionegro, Antioquia — Colombia  
 🌎 Open to Remote Opportunities (LATAM / USA / Europe)
@@ -11,165 +12,207 @@
 
 ## 🚀 About Me
 
-Experienced IT Support Specialist with 18+ years of hands-on experience delivering advanced technical support, endpoint management, troubleshooting, and infrastructure support across small business, enterprise, and distributed environments.
+IT Support Specialist with **19+ years of experience** in technical support, incident diagnosis, troubleshooting, endpoint support, and device administration across Windows and macOS environments.
 
-Strong background supporting Windows and macOS environments, Microsoft 365 ecosystems, networking, hardware lifecycle management, and remote operations for more than 1,500 end users.
+Experienced in supporting **1,500+ end users** across business, government, and private-sector organizations, covering hardware, software, networking, Microsoft 365, endpoint lifecycle management, and remote support operations.
 
-Additionally, I bring frontend development foundations with React, Next.js, TypeScript, and UI-focused thinking, allowing me to better understand debugging, user experience, and modern web technologies.
+I also bring professional Frontend Development experience with **React, Next.js, TypeScript, and JavaScript**, working with distributed teams and modern development workflows.
 
-Currently strengthening my path toward becoming a:
+Currently expanding my expertise in:
 
-### 🔐 Technical Security & Automation Engineer — AI Driven
+- Modern Endpoint Management
+- Microsoft Azure & Intune
+- Windows Server & Active Directory
+- Cloud & Systems Administration
+- Cybersecurity Foundations
+- IT Operations & Automation
 
-Focused on:
-- Endpoint Management
-- Cloud & Device Administration
-- Security Operations Foundations
-- Automation Workflows
-- AI-assisted Technical Operations
-- Modern IT Infrastructure
-- Frontend + Technical Hybrid Solutions
+My professional goal is to combine IT Infrastructure, Endpoint Management, Software Development, and Automation to build a versatile technical profile.
 
 ---
 
-# 🛠️ Core Technical Skills
+## 🛠️ Core Technical Skills
 
-## 💻 IT Support & Infrastructure
-- Advanced L2 Technical Support
-- Endpoint Lifecycle Management
-- Windows & macOS Administration
-- Microsoft 365 Support
-- Hardware Diagnostics & Upgrades
-- LAN / Wi-Fi / VPN Troubleshooting
-- Remote Support Operations
-- Malware Removal & Basic Security
-- Technical Troubleshooting
-- Ticketing Systems (Jira / ClickUp)
+### 💻 IT Support & Infrastructure
+
+- L1/L2 Technical Support & Troubleshooting
+- Windows & macOS Support
+- Endpoint & Device Lifecycle Management
+- Hardware, Software & Peripheral Diagnostics
+- Microsoft 365 (Outlook, Teams, OneDrive)
+- Remote & On-site Technical Support
+- LAN / Wi-Fi / TCP/IP / DHCP
+- VPN Configuration & Troubleshooting
+- Drivers, Operating Systems & Application Support
+- Malware Removal & Basic Endpoint Security
 - Technical Documentation
+- Ticketing & Task Management (Jira / ClickUp)
 
----
+### ☁️ Cloud & Systems Administration
 
-## ☁️ Cloud & Modern Management
-- Microsoft 365
-- Azure Fundamentals
-- Intune (Learning Path)
-- JAMF (Learning Path)
-- Cloud & Device Management
-- Remote Endpoint Support
+*Currently developing and strengthening these skills through structured training.*
 
----
+- Microsoft Azure
+- Microsoft Intune / Endpoint Management
+- Windows Server Administration
+- Active Directory
+- JAMF / Apple Device Management
+- Cloud & Device Administration
 
-## 🌐 Frontend & Technical Development
-- HTML / CSS / JavaScript
-- React
+### 🌐 Frontend Development
+
+- HTML5 / CSS3
+- JavaScript / TypeScript
+- React.js
 - Next.js
-- TypeScript
+- Styled Components
+- Redux
 - REST APIs / JSON
-- Git & GitHub
-- Responsive UI Development
-- Frontend Debugging
-- Component-Based Architecture
+- Responsive Web Development
+- UI Components & Dashboard Development
+- Frontend Debugging & Troubleshooting
+- Figma to Functional Interfaces
+
+### 🔧 Development & Collaboration Tools
+
+- Git / GitHub / GitLab
+- Jira / ClickUp
+- Postman
+- Agile / Scrum / Kanban
+- Figma
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Microsoft Endpoint Management (MD-102)
-- Azure & Intune Administration
+- Microsoft Azure & Intune Administration
+- Windows Server & Active Directory
 - JAMF Fundamentals
-- AI-assisted Automation Workflows
+- Full-Stack Development — Codecademy / freeCodeCamp
+- CS50 — HarvardX
 - Cybersecurity Foundations
-- Technical Security Operations
-- Advanced Frontend Engineering
-- Full-Stack Development Path
+- IT Automation & AI-assisted Workflows
 
 ---
 
-# 🧠 Professional Mindset
+## 💼 Professional Experience
 
-✨ Hybrid Technical Profile  
-✨ Strong Troubleshooting & Analytical Thinking  
-✨ User-Oriented Problem Solving  
-✨ Continuous Learning Mentality  
-✨ Design + Technical Perspective  
-✨ Infrastructure + Frontend Understanding
+### 🏢 ACOMP Solutions
+**IT Support Specialist & Founder**  
+📍 Bogotá, Colombia | 2004 – 2023
 
----
+- Provided L1/L2 technical support to more than 1,500 end users across business, government, and private-sector organizations.
+- Diagnosed and resolved hardware, operating system, driver, application, and peripheral issues.
+- Performed system installations, configurations, upgrades, optimization, and preventive maintenance.
+- Configured and supported LAN/Wi-Fi networks and VPN connections.
+- Provided Microsoft 365 support, including Outlook, Teams, and OneDrive.
+- Delivered remote and on-site technical support.
+- Managed endpoint device lifecycle, from installation and configuration to maintenance, upgrades, and replacement.
+- Performed malware removal and basic endpoint security remediation.
+- Documented technical diagnoses, procedures, and solutions.
 
-# 📌 Professional Experience
+### 💡 ShapYa Inc LLC
+**Frontend Developer & Visual Designer**  
+📍 North Carolina, USA — Remote | 2021 – October 2025
 
-## 🏢 ACOMP Solutions
-### IT Support Specialist & Founder
-📅 2004 — 2023
-
-- Delivered L2 technical support and advanced troubleshooting
-- Supported 1,500+ users across business and enterprise environments
-- Managed Windows & macOS systems
-- Network configuration and diagnostics
-- Remote and on-site support
-- Hardware lifecycle management
-- Long-term operational continuity support
-
----
-
-## 💡 ShapYa Inc LLC (USA - Remote)
-### Frontend Developer & Visual Designer
-📅 2021 — 2025
-
-- Built responsive web applications using React & Next.js
-- Developed reusable UI components
-- Collaborated with backend and design teams
-- Converted Figma designs into functional interfaces
-- Frontend debugging and UI troubleshooting
-- Agile workflow collaboration
+- Developed responsive web applications using React, Next.js, TypeScript, and JavaScript.
+- Built reusable UI components, pages, and dashboards focused on usability and user experience.
+- Collaborated with distributed frontend, backend, design, and product teams.
+- Translated Figma designs into functional, production-ready interfaces.
+- Integrated frontend interfaces with REST APIs.
+- Performed frontend debugging and troubleshooting.
+- Worked with Styled Components, Redux, and the React/Next.js ecosystem.
+- Used Git/GitLab for version control, branching, and code integration.
+- Participated in Agile workflows using Scrum and Kanban.
 
 ---
 
-# 🔧 Technical Labs & Documentation
+## 🎓 Education & Certifications
 
-Currently building technical labs and documentation focused on:
+### Professional Training — In Progress
 
-- Windows Deployment
-- Microsoft 365 Troubleshooting
-- VPN Diagnostics
-- Endpoint Hardening
-- Intune Device Enrollment
-- Malware Cleanup Workflows
-- Remote Support Architectures
-- AI-assisted IT Operations
+- Microsoft Endpoint Management (MD-102)
+- Microsoft Azure & Intune
+- Windows Server Administration
+- Active Directory / Identity & Access Management
+- JAMF — Apple Device Management
+- Full-Stack Developer Path — Codecademy / freeCodeCamp
+- CS50 — HarvardX
+
+### Certifications
+
+- Object-Oriented Programming — SENA
+- Networking Fundamentals — SENA
+- Windows Server Administration — SENA
+- English for Work — Government of Antioquia & Colombo Americano (B2)
+
+### Formal Education
+
+- Technological Degree in Graphic Design & Production — UNITEC University, Bogotá (2006–2011)
+- Associate's Degree in Information Technology — Comfenalco Technical Institute, Bogotá (2001–2003)
 
 ---
 
-# 📫 Connect With Me
+## 🌎 Languages
 
-💼 [LinkedIn](https://linkedin.com/in/camilo-rojas-5988b7115)
-🌐 Portfolio (in progress)  
-📂 GitHub Projects & Labs  
-📧 cafran83@gmail.com
+- Spanish: Native
+- English: B2 (CEFR) — English for Work Certification
+- EF SET: 47/100 — B1 Overall
 
 ---
 
-# ⚡ Tech Stack
+## 🔬 Technical Labs & Projects
+
+Building practical projects and technical documentation to strengthen my skills in:
+
+- Windows Troubleshooting & Administration
+- Microsoft 365 Support Scenarios
+- Networking & VPN Diagnostics
+- Windows Server & Active Directory Labs
+- Microsoft Intune & Endpoint Management
+- Frontend Development with React / Next.js
+- REST API Integration
+- Git & GitLab Workflows
+- IT Automation & AI-assisted Technical Operations
+
+---
+
+## 📫 Connect With Me
+
+💼 [LinkedIn](https://linkedin.com/in/camilo-rojas-5988b7115)  
+📧 [Email](mailto:cafran83@gmail.com)  
+📱 [WhatsApp](https://wa.me/573192479488)  
+🌐 Portfolio — In Progress
+
+---
+
+## ⚡ Tech Stack
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Microsoft365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-# ⚡ Vision
+## 🎯 Professional Vision
 
-Building a long-term career combining:
+Building a career at the intersection of:
 
-🔹 IT Infrastructure  
-🔹 Endpoint Management  
-🔹 Security Foundations  
-🔹 Automation  
-🔹 AI-assisted Operations  
-🔹 Frontend Technologies  
+- IT Support & Infrastructure
+- Endpoint & Device Management
+- Cloud & Systems Administration
+- Frontend & Full-Stack Development
+- Cybersecurity Foundations
+- Automation & AI-assisted Operations
 
-into a modern Technical Security & Automation Engineering profile.
+**Combining hands-on IT experience with software development skills to solve technical problems, improve user experiences, and support modern IT environments.**
